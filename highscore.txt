@@ -1,0 +1,9 @@
+tung 
+3
+khanh 
+6
+quynh
+3
+hoa 
+4
+
